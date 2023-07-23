@@ -6,6 +6,6 @@ export class Teacher extends Person {
     }
 
     public saySalary(): void {
-        console.log("My salary is: 20K")
+        console.log("My salary is: 30K")
     }
 }
